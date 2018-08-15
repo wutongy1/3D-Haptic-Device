@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ulc/Desktop/3Dhaptic/largedatasearch/src/main.cpp
+flann/flann.hpp
+-
+boost/random.hpp
+-
+iostream
+-
+iomanip
+-
+

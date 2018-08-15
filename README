@@ -1,0 +1,7 @@
+This code is used for nearest point searching using flann library. data used for test is generated inside of the code. detail installation for the needed library is in the following
+
+First, uninstall the default flann and lz4 using this command:
+sudo apt-get remove liblz4-dev sudo apt-get remove libflann-dev then install flann and lz4 from github
+
+Install flann library from github: https://github.com/mariusmuja/flann
+Install lz4 from github: https://github.com/lz4/lz4
